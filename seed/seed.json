@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Enterprise OS Subscription",
+      "category": "saas",
+      "status": "active",
+      "sku": "SKU-ENT-001",
+      "price_cents": 120000
+    },
+    {
+      "name": "Developer Seat License",
+      "category": "license",
+      "status": "active",
+      "sku": "SKU-DEV-002",
+      "price_cents": 4900
+    },
+    {
+      "name": "Dedicated Compliance Addon",
+      "category": "addon",
+      "status": "active",
+      "sku": "SKU-ADD-003",
+      "price_cents": 25000
+    }
+  ]
+}
